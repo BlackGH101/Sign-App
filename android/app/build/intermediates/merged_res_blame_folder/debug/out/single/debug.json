@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\layout_item_gesture_recognizer_result.xml.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\layout\\item_gesture_recognizer_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\mipmap-xxxhdpi_sign_1.png.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\mipmap-xxxhdpi\\sign_1.png"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\font_moderniz.otf.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\font\\moderniz.otf"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\drawable_ic_baseline_photo_camera_24.xml.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\drawable\\ic_baseline_photo_camera_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\menu_menu_bottom_nav.xml.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\menu\\menu_bottom_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\mipmap-mdpi_sign_3.png.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\mipmap-mdpi\\sign_3.png"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\drawable_backgroud.xml.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\drawable\\backgroud.xml"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\drawable_sign.jpg.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\drawable\\sign.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\drawable_media_pipe_banner.xml.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\drawable\\media_pipe_banner.xml"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\drawable-car_ait.xml.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\drawable-car\\ait.xml"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\drawable_ic_minus.xml.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\drawable\\ic_minus.xml"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\layout_fragment_gallery.xml.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:/layout_activity_main.xml.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\drawable_icn_chevron_up.png.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\drawable\\icn_chevron_up.png"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\drawable_ic_plus.xml.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\drawable\\ic_plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\mipmap-hdpi_sign_2.png.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\mipmap-hdpi\\sign_2.png"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:/drawable_knust.jpeg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-52:/drawable/knust.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\raw_loading_animation.json.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\raw\\loading_animation.json"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\layout_fragment_camera.xml.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\color_bg_nav_item.xml.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\color\\bg_nav_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:/layout_activity_splash_screen.xml.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-52:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\mipmap-xhdpi_sign_4.png.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\mipmap-xhdpi\\sign_4.png"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\drawable_design.jpg.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\drawable\\design.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\drawable_ic_baseline_photo_library_24.xml.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\drawable\\ic_baseline_photo_library_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\layout_info_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\layout\\info_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\font_aclonica.xml.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\font\\aclonica.xml"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\mipmap-xxhdpi_sign_5.png.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\mipmap-xxhdpi\\sign_5.png"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-50:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\kofia\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-52:\\layout\\activity_splash_screen.xml"
+    }
+]
